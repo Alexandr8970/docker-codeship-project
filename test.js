@@ -1,3 +1,7 @@
+/**
+ *
+ * @type {exports|module.exports}
+ */
 var test = require('tape');
 var server = require('./server');
 
